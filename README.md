@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+### its arman Full stack web developer and a tech enthusist who love to learn always who love to contribute always and who is trying to become a enterprenure.
 <!--
 **rajucs/rajucs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
