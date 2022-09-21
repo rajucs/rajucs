@@ -19,8 +19,8 @@ Here are some ideas to get you started:
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 <div align="center">
+    <a href="https://www.linkedin.com/in/rajucs/"><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;</a>
   <img width="100" src="https://komarev.com/ghpvc/?username=rajucs&style=flat-square&color=blue" alt=""/>
-  <a href="https://www.linkedin.com/in/rajucs/"><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;</a>
 </div>
 
 <div align="center">
