@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-  <img src="https://komarev.com/ghpvc/?username=rajucs&style=flat-square&color=blue" alt=""/>
-
 </div>
-
+<div>
+  <img width="100" src="https://komarev.com/ghpvc/?username=rajucs&style=flat-square&color=blue" alt=""/>
+</div>
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
