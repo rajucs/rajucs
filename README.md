@@ -1,3 +1,8 @@
+
+<div id="header" align="center">
+  <img src="https://raw.githubusercontent.com/rajucs/rajucs/main/comp_1.gif" width="100%"/>
+</div>
+
 ### Hi there 👋
 ### its arman Full stack web developer and a tech enthusist who love to learn always who love to contribute always and who is trying to become a enterprenure.
 <!--
@@ -14,11 +19,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
 
-<div id="header" align="center">
-  <img src="https://raw.githubusercontent.com/rajucs/rajucs/main/comp_1.gif" width="250"/>
-</div>
 
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
