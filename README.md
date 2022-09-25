@@ -16,11 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <div id="header" align="center">
-  <img src="https://raw.githubusercontent.com/rajucs/rajucs/main/comp_1.gif" width="100"/>
-</div>
-<div align="center">
-    <a href="https://www.linkedin.com/in/rajucs/"><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;</a>
-  <img width="100" src="https://komarev.com/ghpvc/?username=rajucs&style=flat-square&color=blue" alt=""/>
+  <img src="https://raw.githubusercontent.com/rajucs/rajucs/main/comp_1.gif" width="250"/>
 </div>
 
 <div align="center">
@@ -32,4 +28,10 @@ Here are some ideas to get you started:
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+</div>
+
+<div align="center">
+    <p>Meet me on Social Media</p>
+    <a href="https://www.linkedin.com/in/rajucs/"><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;</a>
+  <img width="100" src="https://komarev.com/ghpvc/?username=rajucs&style=flat-square&color=blue" alt=""/>
 </div>
