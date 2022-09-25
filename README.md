@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
 
 <div id="header" align="center">
   <img src="https://raw.githubusercontent.com/rajucs/rajucs/main/comp_1.gif" width="250"/>
@@ -31,7 +32,7 @@ Here are some ideas to get you started:
 </div>
 
 <div align="center">
-    <p>Meet me on Social Media</p>
+    <p class="pt-4">Meet me on Social Media</p>
     <a href="https://www.linkedin.com/in/rajucs/"><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;</a>
   <img width="100" src="https://komarev.com/ghpvc/?username=rajucs&style=flat-square&color=blue" alt=""/>
 </div>
