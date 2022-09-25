@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://raw.githubusercontent.com/rajucs/rajucs/main/comp_1.gif" width="100"/>
 </div>
 <div align="center">
     <a href="https://www.linkedin.com/in/rajucs/"><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;</a>
