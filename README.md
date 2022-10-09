@@ -1,6 +1,6 @@
 
 <div id="header" align="center">
-  <img src="https://raw.githubusercontent.com/rajucs/rajucs/main/comp_1.gif" width="100%"/>
+  <img src="https://raw.githubusercontent.com/rajucs/rajucs/main/galaxy.gif" width="100%"/>
 </div>
 
 ### Hi there 👋
