@@ -1,8 +1,3 @@
-
-<div id="header" align="center">
-  <img src="https://raw.githubusercontent.com/rajucs/rajucs/main/galaxy.gif" width="100%"/>
-</div>
-
 ### Hi there 👋
 ### its arman Full stack web developer and a tech enthusist who love to learn always who love to contribute always and who is trying to become a enterprenure.
 <!--
