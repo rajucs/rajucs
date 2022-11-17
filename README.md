@@ -1,5 +1,5 @@
-### Hi there 👋
-### its arman Full stack web developer and a tech enthusist who love to learn always, who love to contribute always and who is trying to become a enterprenure and making myself as a perfect leader ( not good or best ).
+“Businesses frequently prioritize new feature releases over fixing technical debt. They choose to work on revenue-generating work instead of revenue-protection work. This rarely works out as the business hopes, particularly as problems discovered during the final stages of uncompleted projects drag engineers away from the newer projects.”
+### ― Dominica Degrandis
 <!--
 **rajucs/rajucs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
