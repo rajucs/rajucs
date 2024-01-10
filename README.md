@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-- 🔭 **I’m currently learning:**  <br>Python , Enterprenureship, Business Strategy <br><br>
+- 🔭 **I’m currently learning:**  <br>Python , Entrepreneurship, Business Strategy <br><br>
 
 - 🤝 I’m available for Jobs and freelance projects.
 
