@@ -1,7 +1,6 @@
 # 👋 Hello World, I'm Arman Hossain (rajucs) 🚀
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rajucs&color=teal&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
   <a href="https://linkedin.com/in/rajucs"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://linktr.ee/armancs"><img src="https://img.shields.io/badge/Linktree-39E09B?style=flat-square&logo=linktree&logoColor=white" alt="Linktree" /></a>
 </p>
