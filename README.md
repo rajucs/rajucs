@@ -1,30 +1,76 @@
-# 👋 Hello there! I'm Arman.
+# 👋 Hello World, I'm Arman Hossain (rajucs) 🚀
 
-## 🚀 Crafting Digital Experiences
-
-I'm a passionate Web Developer with a knack for building robust and user-friendly applications. My journey in tech is driven by curiosity and a commitment to elegant solutions.
-
--   🔭 **Currently Diving Deep Into:** 🐍 Python, the world of Entrepreneurship, and sharp Business Strategies to bridge tech with impact.
--   🛠️ **Seeking Opportunities For:** Full-stack development projects and collaborations that push the boundaries.
--   🤝 **Available For:** Consultation and exciting freelance ventures. Let's build something amazing together!
--   💬 **Got Questions About:** 🐘 PHP, WordPress wizardry, or the elegance of Laravel? Feel free to ask away!
--   ✨ **Beyond the Code:** You'll find me behind the lens, creating engaging content, or hitting the open road on my motorcycle – my ultimate stress-buster!
-
-  
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rajucs) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/aarmancs) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/arman.cse) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/7162602/arman-h) [![Youtube](https://img.shields.io/badge/-Youtube-CD201F?logo=youtube&logoColor=white)](https://youtube.com/BlueTeK) 
-
-# 💻 Tech Stack:
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%CD201F.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white)  ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=rajucs&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=rajucs&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rajucs&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=rajucs&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rajucs&color=teal&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+  <a href="https://linkedin.com/in/rajucs"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://linktr.ee/armancs"><img src="https://img.shields.io/badge/Linktree-39E09B?style=flat-square&logo=linktree&logoColor=white" alt="Linktree" /></a>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=rajucs&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 👨‍💻 About Me
+I am an **Entrepreneur, Leadership-driven Professional, and Full-Stack Web Developer / AI Automation Engineer** based in Dhaka, Bangladesh. I bridge complex web architecture with cutting-edge Artificial Intelligence to build automated engines that scale businesses.
+
+- 🔭 **Currently Diving Deep Into:** Python, AI APIs (OpenAI, Gemini, Claude), and Next-Gen Automation.
+- ⚡ **Superpowers:** Building AI-driven Social Media pipelines (Auto-posting Reels/Stories via API) and Custom ERP/Accounting systems.
+- 🛠️ **DevOps Mindset:** Handling CI/CD pipelines and managing secure cloud environments (AWS, DigitalOcean, Linux).
+- 🏍️ **Beyond Code:** When I'm not debugging at 2x speed using AI, you’ll find me behind the camera lens 📸 or hitting the highways on my motorcycle!
+
+---
+
+### 🛠️ Tech Stack & Ecosystem
+
+<table>
+  <tr>
+    <td align="center" width="25%"><strong>Backend & Frameworks</strong></td>
+    <td align="center" width="25%"><strong>Frontend & Design</strong></td>
+    <td align="center" width="25%"><strong>AI & Automation</strong></td>
+    <td align="center" width="25%"><strong>DevOps & Cloud</strong></td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/CodeIgniter-EF4223?style=flat&logo=codeigniter&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white" />
+    </td>
+    <td valign="top">
+      <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" /><br/>
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
+    </td>
+    <td valign="top">
+      <img src="https://img.shields.io/badge/OpenAI_API-412991?style=flat&logo=openai&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/ChatGPT-412991?style=flat&logo=openai&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/Google_Gemini-8E75C2?style=flat&logo=googlegemini&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/Claude_AI-D97706?style=flat&logo=anthropic&logoColor=white" />
+    </td>
+    <td valign="top">
+      <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/DigitalOcean-0080FF?style=flat&logo=digitalocean&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/Git_&_GitHub-F05032?style=flat&logo=git&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/Linux_/_VPS-FCC624?style=flat&logo=linux&logoColor=black" /><br/>
+      <img src="https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white" />
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rajucs&show_icons=true&theme=tokyonight&count_private=true" alt="Arman's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajucs&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
+</p>
+
+---
+
+### 🤝 Connect with Me
+- 💼 **LinkedIn:** [in/rajucs](https://linkedin.com/in/rajucs)
+- 🔗 **All Links:** [Linktree](https://linktr.ee/armancs)
+- 💬 **Got a project idea?** Let's collaborate! Drop me a message on LinkedIn or open an issue here.
+
+<p align="right">(<i>"Code is poetry, automation is the engine."</i> 🚀)</p>
